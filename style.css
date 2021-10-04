@@ -8,3 +8,21 @@ h1 {
 #hello {
     color: green;
 }
+.yellow {
+    color: yellow;
+}
+.red-background {
+    background-color: red;
+}
+p {
+    color: blue;
+}
+strong {
+    color: yellow;
+}
+em {
+    color: red;
+}
+#example {
+    color: green;
+}
